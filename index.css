@@ -1,0 +1,277 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #9ba7a8;
+}
+
+header {
+  height: 140px;
+  text-align: center;
+}
+
+header img {
+  height: 130px;
+}
+
+nav {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 70px;
+}
+
+.fa-bars {
+  font-size: 30px;
+}
+.navigation {
+  text-decoration: none;
+  color: rgb(39, 37, 37);
+  padding-right: 100px;
+  padding-left: 100px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 20px;
+  border: 2px solid black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navigation:hover {
+  background-color: #eaeaea;
+}
+/* End! */
+
+/* Main start! */
+
+.text {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(39, 37, 37);
+  margin-top: -300px;
+}
+
+.parallax {
+  background-image: url(images/2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 1000px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+h1 {
+  font-size: 100px;
+  padding-top: 400px;
+}
+
+h2 {
+  font-size: 45px;
+  margin-top: -60px;
+  letter-spacing: 0.3rem;
+  margin-bottom: 120px;
+}
+
+a:hover {
+  background-color: #eaeaea;
+}
+/* End! */
+
+/* location */
+
+.ww {
+  font-size: 50px;
+  text-align: center;
+  margin-top: -350px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(39, 37, 37);
+}
+
+.add {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.maps {
+  text-align: center;
+}
+
+/* End! */
+
+/* menu start! */
+
+.services {
+  background-image: url(images/2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  margin-top: 200px;
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.ss {
+  font-size: 50px;
+  text-align: center;
+  margin-top: -100px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding-top: 120px;
+  color: rgb(39, 37, 37);
+}
+
+.menu1 {
+  width: 700px;
+  height: 900px;
+  padding-left: 100px;
+  padding-right: 50px;
+}
+
+.menu2 {
+  width: 700px;
+  height: 900px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+}
+
+/* End! */
+
+/* How to order */
+
+.order {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img1 {
+  width: 250px;
+  height: 500px;
+  padding-right: 30px;
+  padding-top: 50px;
+}
+
+.img2 {
+  width: 250px;
+  height: 500px;
+  padding-right: 30px;
+}
+.img3 {
+  width: 250px;
+  height: 500px;
+  padding-right: 30px;
+}
+
+.img4 {
+  width: 250px;
+  height: 500px;
+  padding-right: 30px;
+}
+
+.img5 {
+  width: 250px;
+  height: 500px;
+  padding-right: 30px;
+}
+
+.howtoorder {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 50px;
+  margin-top: -270px;
+}
+
+.two {
+  text-align: center;
+  padding-top: 75px;
+  font-size: 50px;
+}
+
+.five {
+  text-decoration: none;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border: 2px solid black;
+  color: rgb(39, 37, 37);
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.five:hover {
+  background-color: #eaeaea;
+}
+
+/* End! */
+
+.intro {
+  background-image: url(images/2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  margin-top: 100px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.intro-1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding-top: 100px;
+  text-align: center;
+  padding-bottom: 100px;
+  color: rgb(39, 37, 37);
+  font-size: 50px;
+}
+
+.intro-2 {
+  text-align: center;
+  font-size: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.media {
+  text-align: center;
+  background-color: #9ba7a8;
+}
+
+.fa-facebook {
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  background-color: #9ba7a8;
+  padding-top: 20px;
+}
+
+.fa-instagram {
+  text-decoration: none;
+  color: white;
+  background-color: #9ba7a8;
+}
+
+.fa-facebook-messenger {
+  text-decoration: none;
+  color: white;
+  background-color: #9ba7a8;
+}
+
+.fa-facebook:hover {
+  color: rgb(0, 0, 173);
+}
+
+.fa-instagram:hover {
+  color: rgb(57, 0, 68);
+}
+
+.fa-facebook-messenger:hover {
+  color: rgb(80, 28, 179);
+}
